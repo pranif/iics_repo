@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "8NgtnsttuS8lhjkVV9W3qg",
-    "name" : "Exp_Mapping_Task_PF",
+    "name" : "mt_exp_PF",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-10-10T14:31:36.156Z",
+  "updateTime" : "2024-10-10T14:49:05.557Z",
   "objectRefs" : [ {
     "id" : "4kScHEiW85GfSHEVjKE3YT",
     "name" : "invprani12lin01",
